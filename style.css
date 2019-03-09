@@ -22,7 +22,11 @@ h1.Brushes {
   background-color: mediumspringgreen;
 }
 
-
+strong {
+  font-weight: bold;
+  font-family: Helvetica;
+  color: blue;
+}
 
 header {
   font-size: 100px;
